@@ -15,9 +15,9 @@ In this code review, I will learn how to read code better, comment, find errors 
 
 👤 **Pedro Guerreiro**
 
-- GitHub: [@pepedropo1](https://github.com/pepedropo1)
-- Twitter: [@pepedrop01](https://twitter.com/pepedrop01)
-- LinkedIn: [Pedro Guerreiro](https://www.linkedin.com/in/pepedropo1/)
+- GitHub: [@guerreiropedr0](https://github.com/guerreiropedr0)
+- Twitter: [@guerreiropedr0](https://twitter.com/guerreiropedr0)
+- LinkedIn: [Pedro Guerreiro](https://www.linkedin.com/in/guerreiropedr0/)
 
 ## 🤝 Contributing
 
